@@ -1,0 +1,30 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/vijay6672      #
+#########################################################################
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683038518/ei/1sxQZNP6EeSO2_gPzNixkAU/ip/40.84.176.231/id/Fgm9UAzdzQY.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDnQ18IsOHI-8yRBAEuXrfwsDFnzGfvrxpk8RsOHx5rMCIQCOew2L-FOECK9Q-OSyJJyIaS_P87M0eD2Lwu8ZictNEQ%3D%3D/file/index.m3u8
+https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683038519/ei/18xQZNKdEMz6uQKLuoKoCg/ip/40.84.176.231/id/x_Gb2NaVoKY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512783/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANTDzbRULW-BikGxYZ6DU-zCyIZvq3C9gOOs2cOCD8LcAiB0IaJRtoqQeCqezgcT3lSyorMWfBWn7-rV-3eSiqdisg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683038519/ei/18xQZOvEK66N_tcPzMSk-A8/ip/40.84.176.231/id/nuLr-LaJqPQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZ76ttiLrWoOGaro4pSTpcgMvBT4FTYepUVQxOai8j4gCIQCMoxf6xAhrB3fYelv6-0AdnUb483SUYJjiZWEYHiaHpg%3D%3D/file/index.m3u8
+https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
+Erro ao processar o link https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live: name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link https://www.youtube.com/channel/UCtPhR34windpzltylYrj5mg/live: name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live: name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link https://www.youtube.com/c/BoasNovasbr/live: name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link : name 'ydl_opts' is not defined
+Erro ao processar o link https://www.youtube.com/c/TVVERDADE/live: name 'ydl_opts' is not defined
