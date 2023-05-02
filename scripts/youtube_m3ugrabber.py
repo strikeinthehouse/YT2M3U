@@ -95,7 +95,27 @@ try:
 except Exception as e:
     print(f"Erro ao ler o arquivo LINKSYOUTUBE.txt: {e}")
     links = []
-
+        f.write("#EXTM3U\n")
+        f.write(banner)
+        for i, link in enumerate(links):
+            try:
+                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                    info = ydl.extract_info(link, download=False)
+                if 'url' not in info:
+                    print(f"Erro ao gravar informações do vídeo {link}: 'url'")
+                    continue
+                url = info['url']
+                thumbnail_url = info['thumbnail']
+                description = info.get('description', '')[:10]
+                title = info.get('title', '')
+                f.write(f"#EXTINF:-1 group-title=\"YOUTUBE\" tvg-logo=\"{thumbnail_url}\",{title} - {description}...\n")
+                f.write(f"{url}\n")
+                f.write("\n")
+            except Exception as e:
+                print(f"Erro ao processar o link {link}: {e}")
+                continue
+except Exception as e:
+    print(f"Erro ao criar o arquivo .m3u8: {e}")    
 
 banner = r'''
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
@@ -120,27 +140,3 @@ ydl_opts = {
     'skip_download': True,  # Não faz download do vídeo
 }
 
-# Get the playlist and write to file
-try:
-    with open('./LISTA5YTALL.m3u', 'w', encoding='utf-8') as f:
-        f.write("#EXTM3U\n")
-        f.write(banner)
-        for i, link in enumerate(links):
-            try:
-                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                    info = ydl.extract_info(link, download=False)
-                if 'url' not in info:
-                    print(f"Erro ao gravar informações do vídeo {link}: 'url'")
-                    continue
-                url = info['url']
-                thumbnail_url = info['thumbnail']
-                description = info.get('description', '')[:10]
-                title = info.get('title', '')
-                f.write(f"#EXTINF:-1 group-title=\"YOUTUBE\" tvg-logo=\"{thumbnail_url}\",{title} - {description}...\n")
-                f.write(f"{url}\n")
-                f.write("\n")
-            except Exception as e:
-                print(f"Erro ao processar o link {link}: {e}")
-                continue
-except Exception as e:
-    print(f"Erro ao criar o arquivo .m3u8: {e}")    
