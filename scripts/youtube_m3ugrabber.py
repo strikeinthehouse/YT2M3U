@@ -76,8 +76,6 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 import yt_dlp
-
-
 from pytube import YouTube
 
 # Configuring Chrome options
@@ -95,6 +93,10 @@ try:
 except Exception as e:
     print(f"Erro ao ler o arquivo LINKSYOUTUBE.txt: {e}")
     links = []
+
+# Escrever no arquivo .m3u8
+try:
+    with open('output.m3u8', 'w') as f:
         f.write("#EXTM3U\n")
         f.write(banner)
         for i, link in enumerate(links):
@@ -115,28 +117,4 @@ except Exception as e:
                 print(f"Erro ao processar o link {link}: {e}")
                 continue
 except Exception as e:
-    print(f"Erro ao criar o arquivo .m3u8: {e}")    
-
-banner = r'''
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENsiptv.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/K-vanc/Tempest-EPG-Generator/main/Siteconfigs/Argentina/%5BENC%5D%5BEX%5Delcuatro.com_0.channel.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Nicolas0919/Guia-EPG/master/GuiaEPG.xml"
-'''
-
-# Instalando streamlink
-
-subprocess.run(['pip', 'install', 'pytube'])
-subprocess.run(['pip', 'install', '--upgrade', 'yt dlp'])
-
-time.sleep(5)
-from pytube import YouTube
-
-# Define as opções para o youtube-dl
-ydl_opts = {
-    'format': 'best',  # Obtém a melhor qualidade
-
-    'write_all_thumbnails': False,  # Não faz download das thumbnails
-    'skip_download': True,  # Não faz download do vídeo
-}
-
+    print(f"Erro ao criar o arquivo .m3u8: {e}")
