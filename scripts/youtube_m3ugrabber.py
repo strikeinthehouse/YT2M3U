@@ -26,7 +26,7 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
+                print('https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
