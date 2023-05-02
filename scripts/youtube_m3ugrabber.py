@@ -71,6 +71,7 @@ if 'temp.txt' in os.listdir():
 import subprocess
 import time
 import os
+import sys
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
@@ -94,9 +95,18 @@ except Exception as e:
     print(f"Erro ao ler o arquivo LINKSYOUTUBE.txt: {e}")
     links = []
 
-# Escrever no arquivo .m3u8
+# Obter nome e local do arquivo de saída do shell
+if len(sys.argv) < 3:
+    print("Por favor, forneça o nome e o local do arquivo de saída como argumentos de linha de comando.")
+    sys.exit(1)
+
+output_filename = sys.argv[1]
+output_location = sys.argv[2]
+
+# Escrever no arquivo de saída
 try:
-    with open('output.m3u8', 'w') as f:
+    output_file_path = os.path.join(output_location, output_filename)
+    with open(output_file_path, 'w') as f:
         f.write("#EXTM3U\n")
         f.write(banner)
         for i, link in enumerate(links):
@@ -117,4 +127,7 @@ try:
                 print(f"Erro ao processar o link {link}: {e}")
                 continue
 except Exception as e:
-    print(f"Erro ao criar o arquivo .m3u8: {e}")
+    print(f"Erro ao criar o arquivo de saída: {e}")
+
+
+
