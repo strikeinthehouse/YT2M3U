@@ -90,7 +90,7 @@ driver = webdriver.Chrome(options=chrome_options)
 
 # Ler os links do arquivo LINKSYOUTUBE.txt
 try:
-    with open('youtube_channel_info.txt', 'r') as f:
+    with open('../youtube_channel_info.txt', 'r') as f:
         links = [line.strip() for line in f.readlines()]
 except Exception as e:
     print(f"Erro ao ler o arquivo LINKSYOUTUBE.txt: {e}")
