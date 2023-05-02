@@ -31,7 +31,7 @@ def grab(url):
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
+                print('https://archive.org/download/video-x-ts-1920x-1080-dtd-4/Video%20x%20Ts_1920x1080_dtd-4.ia.mp4')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
