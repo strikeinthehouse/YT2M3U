@@ -1,318 +1,278 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
-
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/vijay6672      #
-#########################################################################
-
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", The Global Prayer Room
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485380/ei/ZJ5XZN-2DIjV8wSK95-QDw/ip/172.176.158.6/id/Fgm9UAzdzQY.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcSsQKKNMJomUKa2egEA4lPVoxKr7mB76FWUM773m2DwCIQCn8CCSDE2bIy1rOMjhroMPCKUb_70uE-1olZ-oMIxaPA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTzpN8YCpuGzvSsggwQitoHX_EwEvUd05pmfEer=s48-c-k-c0x00ffffff-no-rj-mo" tvg-id="", REVERE - 24/7 Worship
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", RIT TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485381/ei/ZZ5XZNb3B4fh8wS56aLYDQ/ip/172.176.158.6/id/b7iIqa3ANrA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANzSiePHHh0HF6H8TvrixdN7VKYGHkxFh8x1uB21wfXIAiBa6aUdk6NwBlONKZCf2gY8iyqHRxDRErvX_mDwMJShIw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj" tvg-id="", REDE BOAS NOVAS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485381/ei/ZZ5XZITRJNLh8wSnloGIDQ/ip/172.176.158.6/id/atZ2ezdJKtM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbUdCcM_0afOI3esF4Oi3OUcQ92H_ZkGIta7p_hjv0YUCIQDcbMqAxqO8TsrCh96X4nkaQLtg6UaCE_Wfsmy4d4bW6g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV VERDADE
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/BKuSCC60GobYrgO3lFbWqxLsrPbV6HuKR5e7Ig9cEeCBQPWuhf2B_Yvdf4DorB_1nY1s75DjLA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Aparecida do Norte
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485382/ei/Zp5XZIuOGtLh8wSnloGIDQ/ip/172.176.158.6/id/-xNJ5Q8DvtY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO4dp6PM8pduPaedyShg17M3TRcCaHNELB5rxZcQrOXoAiBsfKWGA5-guS7GkapoQkUtAtf_zZqNhmLOCyhyUBrtog%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTcmInFx-BRSCvIU5N-DYDj2DUHLX5nF9OKA8QLtA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Vatican News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485382/ei/Zp5XZNe6NIeZ8wS7n4DYAQ/ip/172.176.158.6/id/Xbyr5eG3eoY.1/source/yt_live_broadcast/requiressl/yes/tx/24486561/txs/24486560%2C24486561%2C24486562/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPKm92_naQPYpS6rNQkeBJw2O6rWmHDsoAcROYYbR1eOAiEA224ry5LNur-h_SC1mA0yxqlw4D5fkHIsb43G2miAJZQ%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQeD4dlDV_dBGnZhUR5QG5S1y_MQBrmjagMcjjVJg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Santuário de Fátima
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485383/ei/Z55XZPjVEM-98wT3koCQDA/ip/172.176.158.6/id/XTxJgKYvcp0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZQns5IIliznTyHIxe18GFOSMxSwvod5qfOzBKa6IiOECIQDItZVFus72lErNwBhe4srj3bPoqxFjWrXlw52tw3eaag%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/WSq_VxcqTx-9jF4UrPdqKUJk0dx5l94JGAzMPBLuinbzrzntRaWvra0u82y1HYAW_gOMpQQjDjA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Santuário Notre-Dame de Lourdes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485383/ei/Z55XZPzILojp8wTXs6jYBQ/ip/172.176.158.6/id/Zz2lqOMiBeo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI3hUybhLplyJmhWAJoM1Sb7JxIGvUFIAyxoXUxa0I6tAiEA6jbc4MNc5Pp4Uz2IbFmk9VAG_PgiqMhrlOM0VekYjsU%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tv Aberta" tvg-logo="https://yt3.ggpht.com/6BaRqJWUjuo7U91NMsuY0aH0vXzgWsUaKGFvvME1SYK8v9aBCRcWq0wSJ10mtLqFtltG08q5=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV A Crítica
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Tv Aberta" tvg-logo="https://yt3.ggpht.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Diário TV Teresópolis
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTxhMhXkfzEQeuUOmBGYbiUwQx05-jYqfs97ARu=s48-c-k-c0x00ffffff-no-rj" tvg-id="", BM&C NEWS
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmHywtWtGPiLXqxLQsy_DH-z9qdtZXngz_R2aZ5A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", JOVEM PAN NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485386/ei/ap5XZKX8EZHU8wSmzYyQCg/ip/172.176.158.6/id/8qj3TxQ1L6E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSeXBm-2YGUcEkWXvAazA5ca2pRDZuvXXzKlv8uebyrsCIDX8AWLSjU5UnltJGmvFU1yOfFSTsR8dtduIFXtaBodm/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", RECORD NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485386/ei/ap5XZLj1LcOd8wTP26_oBw/ip/172.176.158.6/id/owIZ9yx_VWw.1/source/yt_live_broadcast/requiressl/yes/tx/24537258/txs/24537256%2C24537257%2C24537258%2C24537259/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512778/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJHbrFY_OS0aIW27rBIv_I9o8umqwy9zfj9vIzUuC4jJAiA13t4E1RfoOqXzW61h75Y48gDY6ZYrzWHfzdn-8A5t1Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CNN BRASIL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485387/ei/a55XZKK0D83i8wSIvay4Dw/ip/172.176.158.6/id/Yy0QGZEQskM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJx2BObyceaj8tDO1sePOV0lsDGAk2qGR8u0lS2qvy-oCIQD8fkWOlKEpTE0rUoS1JpFrt_9jHqSTv-9BheXUCnVOlA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Cnn'S" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-KBRCkXSVRL6TwhcSIZExe3dbrocmFN2goR0Ceww=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CNN TURK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485387/ei/a55XZLO0Mcq68wS-zraADQ/ip/172.176.158.6/id/Ue9SnIpwNB4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIdHLSPq6qH4XKHjjYtjk4rYOFY4KGVo-hJkkXPxUE4MCIBPTEdryNTPMPhp5N68OijDt4mGzu9eWxsGZq7vrzvlK/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcyBtNBVCDXOr5zkVQoqoKTClWkJL45hSVbOxbWLc=s88-c-k-c0x00ffffff-no-rj" tvg-id="", FOX NEWS
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSph4TS85gWo9KRiQX2HNuLou4qhCKfeklHONEP=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ABC7 SWFL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485388/ei/bJ5XZMfGLpDl8wT9toH4CA/ip/172.176.158.6/id/XObsOutMlh8.63/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN9k_hFQYR7o_2gyPXlNR12QX8cGkOJvwEL5wFCT6pg-AiEA5xP3X53LJxuFnL3NqNJGaikbg66xw8QX9NqYDyitsdI%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA" tvg-id="", WESH 2 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485389/ei/bZ5XZJP9DMGX8wS-9JHYBQ/ip/172.176.158.6/id/Ca6RgU5MAn8.3/source/yt_live_broadcast/requiressl/yes/tx/24552217/txs/24552217%2C24552218/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24482228/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZlX9ics5NTSM2nE9n318cPs-_D5CqKl7t8Vhaod7cxMCIGHT56645XRIcoi_dWjv0nxTnuNZ3BHE_Ejd-DbzlGSC/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/7w6FB0pXZwcTB6am57OXYaOF-vra1-oAEtsMS1sRu7MazRzzUCpCY6rKwz8Xr4PzB3X5G4c=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LiveNOW from FOX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485389/ei/bZ5XZI2yLcTh8wSU4KzYBQ/ip/172.176.158.6/id/ohM40hgfOXM.1/source/yt_live_broadcast/requiressl/yes/tx/24537256/txs/24537256%2C24537257%2C24537258%2C24537259/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgN6_qei0uhzlc79Ye_WK50CXbPvAsJ-yBVyXo7-cP95ICIQDasRYOs9LplqShJfQ80AtxlEhdruKV5lj8K40DJwlMHw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe0x9Hnel8ou4C2TGu0MjcLCnhU1U1BY_dqzt5=s48-c-k-c0x00ffffff-no-rj" tvg-id="", FOX 35 Orlando
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-FXZ-hqJdr-tiKskDf424msLUSB5SCCxRh1HozA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", WCVB Channel 5 Boston
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485390/ei/bp5XZJnML8258wTU_qTwBw/ip/172.176.158.6/id/Rcf5UDWUv3A.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKB7euBDQ0gQcRNKmn-Ne4QxD90ttr3xpzN1WD4JsUymAiEAiEUxuooffoJqcljoIJ4zLGTaprYZA0Nu-MmS4bIRLDo%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWKDLi-7iaW7i8TqDNMikrt6gB265BSxcsHSxK7GA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ABC7 News Bay Area
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT1XtTPxhiNUmwCmyKKdG_nMXQ_IPtZ0Q_6e2MZgg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", WVTM 13 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485391/ei/b55XZKOTMNHk8wT6mr_gBQ/ip/172.176.158.6/id/9yi5_gU1-XE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKlfNFvad28pV09UcXxU7uJTqrNeR1m_sS1d_FPjhg50AiEAxb9MRkf3FKGkRK4UT9u1b8ixtSroO1t8xEdlzZYIEqs%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6EAGFRDSsS2Fo5mN4X4wro_mcmHCgfnU09hk9TA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", KOCO 5 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485392/ei/cJ5XZJmfEozN8wSb0rOoCg/ip/172.176.158.6/id/utVMQcCMn2k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKAKyjwc6HUc03i9yE6YDDsrDaQhkTPFrv6yUJ0GGGJECIErD3afEh1h20QIiEsT5TM1W2Ey_ouC4RvY6yOMDZ0Dh/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSZk6cU0O7nulr0EvfHwbIz9C0tUmOVqmX16FnxFW4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", KMBC 9
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485393/ei/cJ5XZNiqN4XC8wT8z7HoDg/ip/172.176.158.6/id/51S5ut3lZkY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ6dqNqRaiT2ilSrQ2w3ZXVroyZTZXLkuxArDUV3wTmvAiBDTgFfgD7jhYFNt0PoXwOar-osk7jco5KLvLwMOCsd5w%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTlwNsrEbdltrvSAPlzJ9PqTxR5xl2jg9rJOC50P94=s88-c-k-c0x00ffffff-no-rj" tvg-id="", WLWT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485393/ei/cZ5XZK-wHZO58wTX2am4Aw/ip/172.176.158.6/id/3-WqTkgLumY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMtl6j8uUNVuYxfl5yOC6YelbuitFuYqhvKuLeImNQB0CIQCwCiYA_sNjJ757Iruu9YzRamSduUlXmRP7mLjAL20zIQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR81ghv2-0jxpzdXlczwIjw-QT5vYOB54nB9_EA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", KSBW Action News 8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485394/ei/cp5XZOXzBYeZ8wS7n4DYAQ/ip/172.176.158.6/id/uz1aurn1kM8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512783/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALMXIYFFb3eeRVrswU0GgrU0RicV-mkh8WVcGVGhAvMRAiEA1w42mZbtftp1J90A9_1cVSAtqysKtWatnr27MT5XbvA%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTQPV9x_l0s9AC7DIgbZjAlN_4WrmUEcsEh5wzRJ0=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Eyewitness News ABC7NY
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485394/ei/cp5XZLH8I8Xj8wT0_Yy4Aw/ip/172.176.158.6/id/WOx6NMrBvz8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512782/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPu5ZGFMIXU5Yv7SIxB2EVeaYsq3g4mcRvGNgr__siKcAiEAiHN-kcGyyMUxDaMiWmnECS_3LtTW60p3WixYrMkdPsg%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/CX70GtDKDciiX42FFrHMEmDD4u0w42-AME5CSNNKa7MutUUHK4I1X-pUYyIa2KCiviNrDb58=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Weather Tracker TV Network
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485395/ei/c55XZIGdApHU8wSmzYyQCg/ip/172.176.158.6/id/qFtK4HJWNHw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZpEfDTJF9c2P9-QR0mpVcCrClwp6rmRPUF-f9daCEUUCIQCfA2trzGrl9kyY7UK65zbA7pnTexUyn_7QjLlcnBIx6g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQGdGL2NXxhK4RH5S6XdrK-HgaxoHiEJw8JZoGmEw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TBS NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485395/ei/c55XZOjZIc3j8wTjupmoBg/ip/172.176.158.6/id/tKHUVxKM9EE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJsVsDj6n2ch6B_Dn7vQExWV7EdX9l3vjSwXJhlYHu9CAiEAlqzVxJi7uhlrly0vKKiHHIoYM5bWXf6tXRTismvAxIU%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ANNnewsCH
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485396/ei/dJ5XZKbNCc678wThp7mgDA/ip/172.176.158.6/id/R-Hc_Tn_xLs.2/source/yt_live_broadcast/requiressl/yes/tx/24537257/txs/24537256%2C24537257%2C24537258%2C24537259/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ8VJqXVSxacKg8o3MDjk4r7E4NebqrOMb-HPVlN9vR9AiAwWaDWanfcmG_qRMmo9vRCtVy3-aMh7qNX8M5yyrHy_A%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/UC2WTLqAREsl-yCW9k8NAjIvs1Iti2rrjWwVhmXely7PWjgXF2bfPgY-3-2Rf_CDmD608FE3eg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Adn40 - MÉXICO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485396/ei/dJ5XZIyXKoac8wSrl5O4BA/ip/172.176.158.6/id/4dpOXuRL50E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKxMilL-SOp1vyT-AfJQyF5RRjHXdkQR8NS8oBbZpshICID73WJFX7AzSpV2MR5su7K2MusWos3jJSEQZta-33Ckr/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEVISA NOTICIAS
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/SAD39sKg9LxGbPXcZOEK204YyfPEvOo-S_mkIhu-JOEffJFeqi-1mjcMoQGTgs94JAYIk9t8Tg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera Mubasher
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485398/ei/dp5XZMzfBojt8wSK1JGoBA/ip/172.176.158.6/id/8D5QY5gw_Xk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKDYiKfVJVw_0qGmu8KxblzSDiSDYe-ep-XZtmvWvqvGAiEAh1dsXIUSPLUJXU9q3KWXHt3CzkjX0QWD06x3CmfJ4Y8%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ycUCcHsYsrHYKj_x9g75ZCvo7yjXP7mmJMEek36n28y9Vvf42iFwwJMWSiivDjDgDcqN4nOZ7g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", UCRANIA 24
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS65t8rTqqc4hZhI_PS-vShgEGOdpvQlcuYnfk_Hg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", GUARULHOS AIRPORT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485398/ei/dp5XZIHeNMzP8wTU7qTIAw/ip/172.176.158.6/id/yEx_5Okjp_M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472442/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgb_Mgrjqmj8NiZQsghsVSfA7Tf0pGP6I5RWEo1zFI_0sCIAthCKTcgDlKXt5Gw0FoUf2i1axMU2wJc6R-FgYal_OQ/file/index.m3u8
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/RsHrsYqe_fxbvTDXOhJFTv6YmEcsDOM-2qfaDbGZs_UifH1_hwR-RckQqBxvyzQjax2mXNTL=s48-c-k-c0x00ffffff-no-rj" tvg-id="", GUARULHOS AIRPORT 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485399/ei/d55XZPmWHMKc8wSm2onoCA/ip/172.176.158.6/id/kZHBCDigJhs.1/source/yt_live_broadcast/requiressl/yes/tx/24552218/txs/24552217%2C24552218/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOyWm3E_kTxDI-KiuwHatWKf6vGNFRcbKf8bRmZwMQTZAiAN4416ZqVHzHjBNSuwy0FG0ssvAbnwdydLbH3H5-6dtw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CONGONHAS AIRPORT
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTPXZTLVb-LYZkFp-quEYS3NcVDcLsxJ5nYb5yP=s88-c-k-c0x00ffffff-no-rj" tvg-id="", RIO DE JANEIRO AIRPORT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485400/ei/eJ5XZMSvHs3k8wS1rZvwAg/ip/172.176.158.6/id/B2-Z1Y8GY68.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512780/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBDCU-LD7vHHbo1WHK-N1R2q0uJiWKkMQ0YooWGQL-B4CIC_vwEkYexvjluZ1die3KctfpHrWMoxoPsmwaiXP0VnH/file/index.m3u8
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", PORTO ALEGRE AIRPORT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485401/ei/eZ5XZKGxAs3i8wSIvay4Dw/ip/172.176.158.6/id/xtnkSHeCwUY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAODt3VpjPNG_04DsZZj7wS2rYc0DXB1Qw0jSsKYS6f7LAiARl0QNDadibG_3iWPwyvHUjH5l8xLaiTlOGXwvnDb1vw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ll6JaBsZF0046sDVf7j4MotltYYW5v8XwgZAYzuVierMMstTtEa0UdEDr3c3M4p6E8sKurQfVg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LAS VEGAS AIRPORT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485401/ei/eZ5XZOD6I4PD8wTSo6fAAw/ip/172.176.158.6/id/j6kmOdo89HA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512779/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOQxREL0fY4Vp4HSSfxxr-ituW0J6DPVTOh3jQLxIrBcCIAvTx7JvLE4E7LheoWZdYbiuSW9uAQDi2mKNh6_caIQJ/file/index.m3u8
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="<logo>" tvg-id="", SYRACUSE AIRPORT
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQy8Fs0tkvLdTJgKZUQnp3pw55AEsXYNy2Cshvg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Reagan National Airport
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/rtNziHf4M1uKs3891O-3QM6lCTavFy7keCFlWyaQEfJ4Q3PsmkIE9z5cnY52eOhMKcHHH0Wi=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Shoreham Airport
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/MLq8DNyvvfFEqm7HS5pILyWGQA5NLlkA7i-452AdPBJoQVpcXq_UDxVX6EMNM4HPkZ-fm26u5xs=s48-c-k-c0x00ffffff-no-rj" tvg-id="", SHOPTIME
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485403/ei/e55XZI5px-fzBIyovIAE/ip/172.176.158.6/id/UmDZ8mVmVrE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALGMkD__dNlqYpqgsIqjgJiJ_U0nObmqRQaqctX5hofaAiApa_euRKklSgQqmK8YleV_fje_9Cg3mDTwqcqVgDQiFw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/h1He6y7.jpg" tvg-id="", SLA-TV - USA (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485403/ei/e55XZIfzGozP8wS0u4CYBQ/ip/172.176.158.6/id/MWTY5-3yreM.11/source/yt_live_broadcast/requiressl/yes/tx/24537256/txs/24537256%2C24537257%2C24537258%2C24537259/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVtdM0-H038MXw6n7bQ7KUy-xkdJlfJKZgpYT1EKKDLQCIE5Z-MHBT0z7rydJamFQ4nhoi4MSqfv810RS_e79sxxr/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", HSN Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485404/ei/e55XZIzyOZPP8wTMqpGQDw/ip/172.176.158.6/id/1ph8qQnjXts.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJODuwQP4OlFD1LVzh_yqBi-vdERsUqUXO3ZvDc66-J0CIQChyR7bx1eMdXcwLujTp9xNGxrU8oGN5zJ7MOXfJLna6A%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", HSN2 Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485404/ei/fJ5XZKGKF8258wTU_qTwBw/ip/172.176.158.6/id/q-BvtDrTnxc.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYI1w9Vt_QygQfzTDYOpDdM_fYaZ3YjLRLvJGbGjPGpICIQCm9wAjvTfmRQFOWqjKb-zEmggJoJrYtLhstwRIOVNJ-Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485404/ei/fJ5XZJ-0MsO48wTs2K6QCA/ip/172.176.158.6/id/UqFzfqlb60g.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGD1RBoCqKKQZyLYEqImrk34miFwNFqtTB-bXZcgktNQCIFvzvwRz9my3svcA2jc4myQKVsloEXYr2JzFR2GdfvdH/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC 2 Live Stream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485405/ei/fZ5XZI6XEYG_8wSJnKKgCg/ip/172.176.158.6/id/_v_wMS-uACE.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIhkAG44BjV2phSrZvZSfT1gro5vKs5XQDPHHhTXCmOmAiEA4Uqf2TIuYXlezyZIHN7I-VKNyjd5QgdndvFa06fpx7s%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRd3_a5uLRgNX-3HHBLUnEsGdj4ZfmlwvsMYUqb=s88-c-k-c0x00ffffff-no-rj" tvg-id="", QVC Italia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485405/ei/fZ5XZOfULYjV8wSK95-QDw/ip/172.176.158.6/id/QVE8iHFFzmQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfQOqB7uqDzwEHIGO3e_l61fNr1U8V1sttG_0yb-McoYCIQDV9rJeKqZh8i16n3_CicNHrrwQgskhFFd8JgIQXoning%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQtAgEu0qoc-LPQFmvrZALXcwyaAYYW2JNSCSXPQQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC Deutschland
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdapq_R--VshV8IieQT7Xj7oQl8wSXsWsErcLu=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Lejel Home Shopping
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485407/ei/fp5XZIeXO8fQ8wSTsZLQDA/ip/172.176.158.6/id/YZ8BqZFowWA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUo1przKIjOIdbtRYHjE5Xpk4t5kGcLvOVaDJzugZNmgCIGVGCzZq7mqdSZ94gdLWdGE0vJTVQiKUrQUZSCkltbCy/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/znNkYIBrkeGapZY3CP7OeN_RRNTviwFxmLvPjHKrEkzKbnI9rc6qpIB7A6zy6inwarCIBpjSULE=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Shop HQ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485407/ei/f55XZPyOHorN8wTUxraYDQ/ip/172.176.158.6/id/Tj1mn40KEbc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWhb-9I9uptIFvdx_t9kujOtObOtyrch4GsPV0132r6QCIQDBkvUby3Jp3MpU14lUKd6uFQ4Aw-njB1WnT5q1-6IqSA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ12ajz3oOeEG_Bk8uOB3BPzhj16Nx1hbyuNy_8-Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CHANNEL21
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485408/ei/f55XZMytOZDi8wSp1pfADg/ip/172.176.158.6/id/0Vz3bK6K0f4.1/source/yt_live_broadcast/requiressl/yes/tx/24486570/txs/24486570%2C24486571%2C24486572/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512779/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKNDrlISejeo3DcsZFymVlsNqiYFFENc1VGSyyyGztBoAiEA-OG3QCqojtvrWKuK5v4PYQzK-DML7XZqpMQ7UYhquAQ%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuZOZNocLbtDZkGVS2fPIoGzo8w2Bk8WCkyg_Zvg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TVSN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485408/ei/gJ5XZKbNHdDO8wSqwpfIDA/ip/172.176.158.6/id/D6um9E-zHBY.1/source/yt_live_broadcast/requiressl/yes/tx/24483117/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBFp41D4Dj198ToyqkmR8rvd6nBrZzWLypQHwWNzuhf4CIQDEnJRWmVsPlzPH3R6Wrqy-X6ejFD0rPELyGxPDn49qXQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/X8p8oQs.jpg" tvg-id="", Bulldog Shopping Network (BSN) (STK) - USA (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485409/ei/gJ5XZI_wOpO58wTX2am4Aw/ip/172.176.158.6/id/VyQgnUBX7k4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMm8I3t9c3t4ERbf_19Ws_qA9D0v5dqLCBAiTRE53R1-AiBgG0UpWDwkgtcd4JqYLx6y8BkoSS9r1K4pblKHkJh49g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Create and Craft - UK (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485409/ei/gZ5XZPCkG8Ge8wSF-ofQDQ/ip/172.176.158.6/id/rySrNrcRzJo.1/source/yt_live_broadcast/requiressl/yes/tx/24483117/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfZt0squYdLa26ZuH33I_QjNg6BDElaez_jBr5ROEuW0CIQCDbfwrKf2nLvfyjCzPKJMPNT0hRls7ua_AnRaCyyViWA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/YOnrSzJ.jpg" tvg-id="", Cruise1st TV - UK (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485410/ei/gZ5XZPqwPM248wTPjIbAAQ/ip/172.176.158.6/id/LTHVmGbYBo8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgH7OndIp2yTlZViViaDMSVmwfw7iTmDZDbwPB_Ko557ACIQCPotbF8qRu66NODnG8yJizX8D2IHDdbsb3GzhGW4diRg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/fIuxw0H.png" tvg-id="", Gem Shopping Network - USA (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485410/ei/gp5XZMuRHMnq8wS_hJPIAQ/ip/172.176.158.6/id/BRgCQWjOBQg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANDJbMlLLmF8-i_6rG2eVaj6FKqz5qTQ8Z8Pa8qbpYRrAiEA2Uc5SXPbJF_Kb3mYriw5AFTfQobobZlQIsjVOkPZs9g%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/k4lRame.png" tvg-id="", Ideal World - UK (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485411/ei/gp5XZMPxO8WY8wTO64nIAQ/ip/172.176.158.6/id/IeP0YA6w0T0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP6pJ5hzXH0GX5ZHCwwDuAL60_LIya0hF6-dsiu4u8YfAiEA0YS2arBX_LtXZEyAP5jx-lKGvb7p1krfS26hA3S3iX4%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Shop LC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485411/ei/g55XZPvCHoi98wS0_J_IDw/ip/172.176.158.6/id/hOMzP6l0J0I.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMbXRaz2WVF31Z3Z8IJH2BUiV4i2y_kcpdmO8EzQGrTYCICddAePozIMa7gChbjcl954PW8cUnluQkEcHLiivr6-0/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/WVAQvvX.jpg" tvg-id="", Shop HQ Health - USA (STK)
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSo-47JM1Mt-m_4EWdeZmi_uq87-cBZImge6KOr=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TJC Style
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485412/ei/hJ5XZOGXGMfq8wSf76iYCA/ip/172.176.158.6/id/v8j1EeATSvc.20/source/yt_live_broadcast/requiressl/yes/tx/24486562/txs/24486560%2C24486561%2C24486562/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJXW4ciPeLK5r3AphMKnKMxvCCoSbYVk62KvP4e-lLyUAiEA6ZF_5-VTJH1IWXpMr1DfOra5-VAiQVllyOO8U7nhGp8%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQOhulAn6r13tu56_xQj-2FznIc_3aCz8Vt_vVE=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Jewelry Television
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485412/ei/hJ5XZOTyNYbQ8wTjwpqICg/ip/172.176.158.6/id/JFrTouQjjAE.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbG7rRnAV8DVKlDM8k-zt3V8K1T721HNkRgJ90ZeEMw4CIEyS0EVjj21t8PfM-A_dLZMbUtiSqwS6EfDDwvC-ADWN/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8VcnaTWQk6rbT3x5QJmWJgOp0uSIM-5VQDnQ0WQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Gemporia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485413/ei/hZ5XZN2qF4jV8wSK95-QDw/ip/172.176.158.6/id/NmM1I0dMocQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOf7rOB_vh5-NuiGthin7y6CLmXrttIPxvmcWSIFLp4sAiEAysCuXIf_M8BrcH9mD0_OMWrS9g3zwTZgk1v8bJdBkJE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/7NCipJ2.png" tvg-id="", America's Auction Channel (AACTV) - USA (STK)
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/NFCKC7X.jpg" tvg-id="", The Coin Vault - USA (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485414/ei/hp5XZNS1DtLU8wSKiozIDA/ip/172.176.158.6/id/k4LybJAsZts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPoPvLAIReHcU1_k1W9lPvyNHguaV0nGeyPhJW8_Ru7RAiEA_C8ZcPbPExDV9fgfHx0Ev2t9VHhJ0HEbqPrJ8n34k-c%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", PearlTV - França (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485414/ei/hp5XZMfsK4bC8wTF1YTgDw/ip/172.176.158.6/id/c-CSJyJOCJc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcvoS6ROy77IHNkSc_sh3M0QdKB-pY_WjKSqjnDYQF_ICIBuSKnI7mu8W15BVljCZbqxzdyE0JGBu7qWxOgYwsVv7/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/cbFWldL.jpg" tvg-id="", Pearl TV - Alemanha (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485415/ei/h55XZJG8DsGZ8wSYs4PAAw/ip/172.176.158.6/id/d-dpxzoYJ4A.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQMD4dqBH_1R_DXR8KervqJs7KuuC4ybiFbjD_vEsJ3kCIGShmTii0114ZFwKmXMJVKD2YcwUF26nUCyuCtPT2ItV/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/wOAxLMR.png" tvg-id="", CHANNEL21 - Alemanha (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485415/ei/h55XZOPiKs2f8wTMr4KABg/ip/172.176.158.6/id/0Vz3bK6K0f4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRCtBq6AXBrR6iPlWEhm5WBadURnLUHMI73cXgStequ4CIQCQG6a4wHAwkZ5xHkf4ROYFgethLPEjnvXWoWPx9nBZug%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/pwVA25v.jpg" tvg-id="", Телеканал Shop&Show - Russia (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485416/ei/iJ5XZM3OCI_j8wS3gJ64Dg/ip/172.176.158.6/id/By961oA4ejE.21/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPLF-S7G3TK7LUV44Vo5xXSBvsItWJfJLKMhHCdumV3GAiEAp5pfLi0CT-bTivxkx3_UJfib4KDApJq-LkYCHgtlj3Y%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/CNf0Ej5.png" tvg-id="", Juvelirochka TV (Ювелирочка ТВ) - Russia (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485416/ei/iJ5XZK2qJ4jp8wTXs6jYBQ/ip/172.176.158.6/id/wdSKQjQVzFM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGb6iNhSKF_OQhyVFSHy1sD3ul7VtbhTyW4W2zGSDADsCIG1R-o_LFs0m0QU73gIo7NLUMvPtqFV_Adr41DnpjEsh/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/gFnsnth.jpg" tvg-id="", Leomax 24 - Russia (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485417/ei/iZ5XZK7mCcLB8wTasKjICw/ip/172.176.158.6/id/qerEhXGBF7E.1/source/yt_live_broadcast/requiressl/yes/tx/24483117/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOjPNkPzk8xCtckyi4CpELPRcJZ6n8yYUDeXxBv9ijNaAiEAx-l0zTbNxcX_yA5Gii0Qb6UkJJx_2YAjjvltxE7fkl0%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/ryobVFo.jpg" tvg-id="", MOMO Shopping Channel CH35 - Japan (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485417/ei/iZ5XZKPdKoi98wS0_J_IDw/ip/172.176.158.6/id/xbNWkUyxQGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTtX_CicsDAleadNx1kZQHBjwuBfLT_DACyHZSrN1NUwCIQDzPqa3jZ_cL_3U2QJKZc82Fkts4wQxy-NBY9gsRPUl4g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/ryobVFo.jpg" tvg-id="", MOMO Shopping Channel CH48 - Japan (STK)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485418/ei/ip5XZMi1Ccrl8wT23ZqgAQ/ip/172.176.158.6/id/_pZQ1Lk0xMA.7/source/yt_live_broadcast/requiressl/yes/tx/24552217/txs/24552217%2C24552218/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIwUWYGSZJ6Ej3ATUpDUVtWwzHwPlN17nvM4XPggS6fMCIF3wsdALM6a3IdCUtGbjkXhnYnR76-mYxtlZfhwk4ca7/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRarkibJxwPdevJ6jDRJ8Fztdt5sly2rFilSbRfIQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Live東森購物台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485418/ei/ip5XZKOzJ5Hq8wSGnqKQDQ/ip/172.176.158.6/id/ViJ3XiN6Q3M.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKGZ1uLR5R6EitgaD6ft0__T7iI9FBEjVbYDr-_MIvmMAiAnoot8L9HKgFgxGTOvYzENihnrdIu3pYe9tb_L5xvknA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQudWWNn0SsatIUa2ZzwFpyRccgalHjWQyLVga0wQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ViVa TV美好家庭購物
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485419/ei/i55XZKuCB4G-8wTIx5yQAQ/ip/172.176.158.6/id/yuhgIlXwPh8.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKq5A0VMZwQ95grIwPWR-jLY70v_UqSZfu9Bi07Dn5LtAiEAghxB1lcA-8UCIQcmmpFGawiKkqejL5dJ1m10uX78aYM%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Tijuana Oficial
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Tijuana Oficial
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Monterrey
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Telediario Canal 6 Monterrey
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Chihuahua
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Chihuahua
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/Gd5V-MNiraxmwRdZ5IXMYf2NEM6Fh9Or6WCWxulvmOP2eYPTL39wMCZR4MW-KQgc_ndabDO-C_c=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisa Nueve
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/0qm6Okilij8qpEmYY7skskeqQ84QapO7qp64PDip-cZX7jZpuSIh1uRLz7Ote6WWKS2CzcpClG0=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Senado de México
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", EarthCam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485426/ei/kp5XZJXdFc2f8wTMr4KABg/ip/172.176.158.6/id/1-iS7LArMPA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNa5FbSXMGe1OUwYq-YYpD82Luizg4AZuQDfwpu0tmpsCIQCvBFjU_jB94R9HoSg1Jb0Jij251VDXOz7z3U52hWRPFA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSx03XvqoiFy-7fm0q2kNOhYQR7VIbviODP9XmN=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Câmera Engeplus - Rincão
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485427/ei/kp5XZJXUOozN8wSb0rOoCg/ip/172.176.158.6/id/MAL2G84e97c.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOfCqezN9bfcVoTmC7Sz3KcL4jql8_wOB-SO9org9LLyAiEAy-ccNaBVEkv7GPgtbOi6DtOAQFcvhZ3TKGSjRBgbKOo%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/gfwerOJqK7yw2k5hgsmVHhGwB0RQG4FLwD-YFtdSX5yEZwu9eyPWhjOjW-XJVJBZoK6357DdvA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TRENS AO VIVO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485427/ei/k55XZJPZGsTD8wSN-o2YBw/ip/172.176.158.6/id/v6YqU-OWzwU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANcdv7b9QztLV8CY0jWFqGFvxmPvEIj-q2ZFqxOqIGtaAiEArfKHFJlOI8Zj93MFmeJam3X-dMkR13icIAETh4n6NhU%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Filipinas Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485427/ei/k55XZKTUNsXr8wS926OgAg/ip/172.176.158.6/id/5Z7YxfAPhJ0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcwiOQHtkxLmbBRfgbO_5_8QW31jhFuIbSWE4EML0j4cCIA2KcUpLZQ3aLrBOrvC0BtMfsED_wYVOAUacIxWRFlLD/file/index.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/wy6yyhlV7AA55gddO2YBTw1TG6CFeLflJcXuQa6A17Nc7aHszS2A-6_aSAffiNliIzpj3FS9BA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ABC13 Houston Cam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485428/ei/lJ5XZI3DG8_V8wThop-gBQ/ip/172.176.158.6/id/5jPqMDjJKpM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANTtpXrB3jszhAzAh2UDwAA5bvRFfkBWkb82-tWg1ug0AiAPZbMHe6b_6b3dvXbvs-2EV7PEthtD-72pEIsKhxxAGg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CABVIEWS from Norway
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CABVIEWS from Norway
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJglkmhs17R29Z00s8rPrBCuLPHyExWpBIJpyK7g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", THAILAND LIVE
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSTlhL9hy9pW2UyBNf7RUTvDzPbFDR73pNvc9DP=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Camara dos Deputados Italia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485429/ei/lZ5XZIGiNpDT8wTlnq7ICQ/ip/172.176.158.6/id/Cnjs83yowUM.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEUzF9ihzqbqZ2S2CMjA3zkF4kVAN63VSkujvrJZEuiUCIQDAPZPnJCzLbw7sikgQfZ0l_KtIXzC0YyBubCAFz4PZJQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Globovisión En Vivo Ve
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485430/ei/lp5XZNrBGIOa8wSxnroQ/ip/172.176.158.6/id/poN_70S1NcA.1/source/yt_live_broadcast/requiressl/yes/tx/24486571/txs/24486570%2C24486571%2C24486572/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcupN1kmHn7L2GR7J2RaJ_WcX_ewAydeFri6uVEJZWvMCIG6tGXicH7NXuQmN49jYW-BX3Te2CRQBeNrsAB419KBs/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSh1AT7nLzmK_hNCzmcgrXBokg-DsYC6MKQ6A18=s48-c-k-c0x00ffffff-no-rj" tvg-id="", El País
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485431/ei/lp5XZMmfOIm48wTYgY6IAw/ip/172.176.158.6/id/ZUFkYXlYgS4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBxzkVLfvPDA5DomYTKiU3z9dol1VkmzmDNx4w5mWdccCIQDiW30_BM4Bm18x9YB4heNhs6Wd_CSypIDqXYNiFbiSjQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVHufh_kTHBz51AgWKpi5E-yBplmevkqtIrN1ZTKE=s48-c-k-c0x00ffffff-no-rj" tvg-id="", La Vanguardia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485431/ei/l55XZI7QGM2f8wTMr4KABg/ip/172.176.158.6/id/uOMMoJb3IsU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgI2IujT__vIZsDnywBlmXF5I_m-YNeuAfxu1kOahss2MCIQDma9aiMQhVsVUZpfCmjdtALpktZn93Qy6B_L1e9Xnz0Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="", teleSUR
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
-
-#EXTINF:-1 group-title="Latino" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="", teleSUR English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485432/ei/mJ5XZJzxBort8wTerZGwDA/ip/172.176.158.6/id/s_BZMK5QgNY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCNIEO07fDfh_Wzoj2AogZp98FhuUAGwef4WICOxetgcCIQCFjlk-RQs2xO19U3I5W0MUuX07ff3Ee5g50zgpTn4h3w%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj" tvg-id="https://www.youtube.com/c/rtvenoticias/live", RTVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683485432/ei/mJ5XZJGCI4m48wTYgY6IAw/ip/172.176.158.6/id/xR-4NDFsYNk.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGUjAcbHBmz6dSqYGX5zrc3_RYYNOQN7JWIYmVuqO0AQCIQCxkFLUDZ5-dKHze0_XY3FSxevPbDvxX6vP6Ff7PXudbg%3D%3D/file/index.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
+
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-rec="28" tvg-id="E4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/e4-epg.png" group-title="General",E4
+https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/dave-epg.png" group-title="General",Dave
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
+
+#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
+https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="IdealWorldTV.uk" group-title="Shopping",Ideal World (limited)
+https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="TG4.ie" status="timeout",TG4 (Irish)
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="84" tvg-id="PBSAmerica.uk" group-title="General",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="Shopping",Create & Craft
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="TVWarehouse.uk",TV Warehouse
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
+
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1280px-CBBC_%282023%29.svg.png" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1280px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="Children" status="blocked",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#EXTINF:-1 tvg-chno="237" tvg-id="TalkTV.uk" group-title="News",TalkTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="272" tvg-id="AsharqNews.uk" status="timeout",Asharq News (Arabic)
+https://news.sechls01.visionip.tv/live/visiontvuk-international-asharqnews-SD/playlist.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-id="AlArabiya.uk" status="timeout",Al Arabiya (Arabic)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="AlJazeeraArabic.qa" status="timeout",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="WION.in" status="timeout",WION
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+
+#EXTINF:-1 tvg-chno="500" tvg-id="Information.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" group-title="Data",Information
+https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
+#EXTINF:-1 tvg-chno="501" tvg-id="PlaylistInfo010523.uk" group-title="Data",Playlist Update Channel
+https://experiencersinternational.github.io/tvsetup/staticch/epgupdatech-static.mp4
+
+#EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1X.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio",BBC Radio 1Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8
+#EXTINF:-1 tvg-chno="702" tvg-id="BBCRadio2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png" group-title="Radio",BBC Radio 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+#EXTINF:-1 tvg-chno="703" tvg-id="BBCRadio3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png" group-title="Radio",BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:-1 tvg-chno="704" tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" group-title="Radio",BBC Radio 4
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="Radio",BBC Radio 5 Live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="Radio",BBC Radio 5 Sports Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" group-title="Radio",BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="BBCRadio4Extra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" group-title="Radio",BBC Radio 4 Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="BBCRadioAsianNetwork.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" group-title="Radio",BBC Radio Asian Network
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="Radio",BBC World Service 
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-chno="720-1" tvg-id="BBCRadioHW.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Hereford_%26_Worcester_2022.svg/1280px-BBC_Hereford_%26_Worcester_2022.svg.png" group-title="Radio",BBC Radio Hereford and Worcester
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_hereford_worcester.m3u8
+#EXTINF:-1 tvg-chno="720-2" tvg-id="BBCRadioCymru.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Cymru_2022.svg/1280px-BBC_Radio_Cymru_2022.svg.png" group-title="Radio",BBC Radio Cymru (Welsh)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cymru.m3u8
+#EXTINF:-1 tvg-chno="720-3" tvg-id="BBCRadioDevon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BBC_Radio_Devon_2022.svg/1280px-BBC_Radio_Devon_2022.svg.png" group-title="Radio",BBC Radio Devon
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_devon.m3u8
+#EXTINF:-1 tvg-chno="720-4" tvg-id="BBCRadioFoyle.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Foyle_2022.svg/1280px-BBC_Radio_Foyle_2022.svg.png" group-title="Radio",BBC Radio Foyle
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_foyle.m3u8
+#EXTINF:-1 tvg-chno="720-5" tvg-id="BBCRadioLancashire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BBC_Radio_Lancashire_2022.svg/1280px-BBC_Radio_Lancashire_2022.svg.png" group-title="Radio",BBC Radio Lancashire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lancashire.m3u8
+#EXTINF:-1 tvg-chno="720-6" tvg-id="BBCRadioNanGaidheal.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_nan_G%C3%A0idheal_2022.svg/1280px-BBC_Radio_nan_G%C3%A0idheal_2022.svg.png" group-title="Radio",BBC Radio nan Gàidheal (Gaelic)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_nan_gaidheal.m3u8
+#EXTINF:-1 tvg-chno="720-7" tvg-id="BBCRadioNottingham.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BBC_Radio_Nottingham_2022.svg/1280px-BBC_Radio_Nottingham_2022.svg.png" group-title="Radio",BBC Radio Nottingham
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_nottingham.m3u8
+#EXTINF:-1 tvg-chno="720-8" tvg-id="BBCRadioSuffolk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BBC_Radio_Suffolk_2022.svg/1280px-BBC_Radio_Suffolk_2022.svg.png" group-title="Radio",BBC Radio Suffolk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_suffolk.m3u8
+#EXTINF:-1 tvg-chno="720-9" tvg-id="BBCRadioSussex.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_Radio_Sussex_2022.svg/1280px-BBC_Radio_Sussex_2022.svg.png" group-title="Radio",BBC Radio Sussex
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_sussex.m3u8
+#EXTINF:-1 tvg-chno="720-10" tvg-id="BBCRadioYork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BBC_Radio_York_2022.svg/1280px-BBC_Radio_York_2022.svg.png" group-title="Radio",BBC Radio York
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_york.m3u8
+#EXTINF:-1 tvg-chno="720-11" tvg-id="BBCRadioThreeCounties.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BBC_Three_Counties_Radio_2022.svg/1280px-BBC_Three_Counties_Radio_2022.svg.png" group-title="Radio",BBC Radio Three Counties 
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_three_counties_radio.m3u8
+#EXTINF:-1 tvg-chno="735-1" tvg-id="BBCRadioGloucestershire.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcglos-epg.png" group-title="Radio",BBC Radio Gloucestershire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_gloucestershire.m3u8
+#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCRadioDerby.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcderby-epg.png" group-title="Radio",BBC Radio Derby
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_derby.m3u8
+#EXTINF:-1 tvg-chno="719-1" tvg-id="BBCRadioLeeds.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrdleeds-epg.png" group-title="Radio",BBC Radio Leeds
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leeds.m3u8
+#EXTINF:-1 tvg-chno="726" tvg-id="BBCRadioStoke.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcstoke-epg.png" group-title="Radio",BBC Radio Stoke
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_stoke.m3u8
+#EXTINF:-1 tvg-chno="719-2" tvg-id="BBCRadioJersey.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrdjersey-epg.png" group-title="Radio",BBC Radio Jersey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_jersey.m3u8
+#EXTINF:-1 tvg-chno="719-3" tvg-id="BBCRadioBristol.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrdbristol-epg.png" group-title="Radio",BBC Radio Bristol
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_bristol.m3u8
+#EXTINF:-1 tvg-chno="719-4" tvg-id="BBCRadioBerkshire.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrdberkshire-epg.png" group-title="Radio",BBC Radio Berkshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_berkshire.m3u8
+#EXTINF:-1 tvg-chno="719-5" tvg-id="BBCRadioCWR.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrdcwr-epg.png" group-title="Radio",BBC Radio CWR
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry_warwickshire.m3u8
+#EXTINF:-1 tvg-chno="719-6" tvg-id="BBCRadioKent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Radio_Kent_2022.svg/1280px-BBC_Radio_Kent_2022.svg.png" group-title="Radio",BBC Radio Kent
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_kent.m3u8
+#EXTINF:-1 tvg-chno="719-7" tvg-id="BBCRadioManchester.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BBC_Radio_Manchester_2022.svg/1280px-BBC_Radio_Manchester_2022.svg.png" group-title="Radio",BBC Radio Manchester
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_manchester.m3u8
+#EXTINF:-1 tvg-chno="719-8" tvg-id="BBCRadioNewcastle.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_Radio_Newcastle_2022.svg/1280px-BBC_Radio_Newcastle_2022.svg.png" group-title="Radio",BBC Radio Newcastle
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_newcastle.m3u8
+#EXTINF:-1 tvg-chno="719-9" tvg-id="BBCRadioNorfolk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BBC_Radio_Norfolk_2022.svg/1280px-BBC_Radio_Norfolk_2022.svg.png" group-title="Radio",BBC Radio Norfolk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8
+#EXTINF:-1 tvg-chno="719-10" tvg-id="BBCRadioScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_Radio_Scotland_2022.svg/1280px-BBC_Radio_Scotland_2022.svg.png" group-title="Radio",BBC Radio Scotland
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_scotland_fm.m3u8
+#EXTINF:-1 tvg-chno="719-11" tvg-id="BBCRadioUlster.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/BBC_Radio_Ulster_2022.svg/1280px-BBC_Radio_Ulster_2022.svg.png" group-title="Radio",BBC Radio Ulster
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_ulster.m3u8
+#EXTINF:-1 tvg-chno="719-12" tvg-id="BBCRadioWales.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Radio_Wales_2022.svg/1280px-BBC_Radio_Wales_2022.svg.png" group-title="Radio",BBC Radio Wales
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wales_fm.m3u8
+#EXTINF:-1 tvg-chno="721-1" tvg-id="BBCRadioCornwall.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BBC_Radio_Cornwall_2022.svg/1280px-BBC_Radio_Cornwall_2022.svg.png" group-title="Radio",BBC Radio Cornwall
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cornwall.m3u8
+#EXTINF:-1 tvg-chno="721-2" tvg-id="BBCRadioCumbria.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BBC_Radio_Cumbria_2022.svg/1280px-BBC_Radio_Cumbria_2022.svg.png" group-title="Radio",BBC Radio Cumbria
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cumbria.m3u8
+#EXTINF:-1 tvg-chno="721-3" tvg-id="BBCRadioCymru2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_Radio_Cymru_2_2022.svg/1280px-BBC_Radio_Cymru_2_2022.svg.png" group-title="Radio",BBC Radio Cymru 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cymru_2.m3u8
+#EXTINF:-1 tvg-chno="721-4" tvg-id="BBCRadioGuernsey.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BBC_Radio_Guernsey_2022.svg/1280px-BBC_Radio_Guernsey_2022.svg.png" group-title="Radio",BBC Radio Guernsey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_guernsey.m3u8
+#EXTINF:-1 tvg-chno="721-5" tvg-id="BBCRadioHumberside.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_Humberside_2022.svg/1280px-BBC_Radio_Humberside_2022.svg.png" group-title="Radio",BBC Radio Humberside
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_humberside.m3u8
+#EXTINF:-1 tvg-chno="721-6" tvg-id="BBCRadioLeicester.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Radio_Leicester_2022.svg/1280px-BBC_Radio_Leicester_2022.svg.png" group-title="Radio",BBC Radio Leicester
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leicester.m3u8
+#EXTINF:-1 tvg-chno="721-7" tvg-id="BBCRadioLondon.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_Radio_London_%282022%29.svg/1280px-BBC_Radio_London_%282022%29.svg.png" group-title="Radio",BBC Radio London
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_london.m3u8
+#EXTINF:-1 tvg-chno="721-8" tvg-id="BBCRadioShropshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BBC_Radio_Shropshire_2022.svg/1280px-BBC_Radio_Shropshire_2022.svg.png" group-title="Radio",BBC Radio Shropshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_shropshire.m3u8
+#EXTINF:-1 tvg-chno="721-9" tvg-id="BBCRadioWiltshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BBC_Radio_Wiltshire_2022.svg/1280px-BBC_Radio_Wiltshire_2022.svg.png" group-title="Radio",BBC Radio Wiltshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_wiltshire.m3u8
+#EXTINF:-1 tvg-chno="722-1" tvg-id="BBCRadioCambridge.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BBC_Radio_Cambridgeshire_2022.svg/1280px-BBC_Radio_Cambridgeshire_2022.svg.png" group-title="Radio",BBC Radio Cambridgeshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cambridge.m3u8
+#EXTINF:-1 tvg-chno="722-2" tvg-id="BBCRadioLincolnshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BBC_Radio_Lincolnshire_2022.svg/1280px-BBC_Radio_Lincolnshire_2022.svg.png" group-title="Radio",BBC Radio Lincolnshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lincolnshire.m3u8
+#EXTINF:-1 tvg-chno="722-3" tvg-id="BBCRadioMerseyside.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BBC_Radio_Merseyside_2022.svg/1280px-BBC_Radio_Merseyside_2022.svg.png" group-title="Radio",BBC Radio Merseyside
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_merseyside.m3u8
+#EXTINF:-1 tvg-chno="722-4" tvg-id="BBCRadioOxford.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BBC_Radio_Oxford_2022.svg/1280px-BBC_Radio_Oxford_2022.svg.png" group-title="Radio",BBC Radio Oxford
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_oxford.m3u8
+#EXTINF:-1 tvg-chno="722-5" tvg-id="BBCRadioSolent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/BBC_Radio_Solent_2022.svg/1280px-BBC_Radio_Solent_2022.svg.png" group-title="Radio",BBC Radio Solent
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_solent.m3u8
+#EXTINF:-1 tvg-chno="722-6" tvg-id="BBCRadioSomerset.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Somerset_2022.svg/1280px-BBC_Radio_Somerset_2022.svg.png" group-title="Radio",BBC Radio Somerset
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_somerset_sound.m3u8
+#EXTINF:-1 tvg-chno="722-7" tvg-id="BBCRadioSurrey.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BBC_Radio_Surrey_2022.svg/1280px-BBC_Radio_Surrey_2022.svg.png" group-title="Radio",BBC Radio Surrey
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_surrey.m3u8
+#EXTINF:-1 tvg-chno="722-8" tvg-id="BBCRadioTees.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BBC_Radio_Tees_2022.svg/1280px-BBC_Radio_Tees_2022.svg.png" group-title="Radio",BBC Radio Tees
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_tees.m3u8
+#EXTINF:-1 tvg-chno="722-9" tvg-id="BBCRadioWM.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BBC_Radio_WM_logo_2022.svg/1280px-BBC_Radio_WM_logo_2022.svg.png" group-title="Radio",BBC Radio WM
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_wm.m3u8
+#EXTINF:-1 tvg-chno="734-1" tvg-id="BBCRadioEssex.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcessex-epg.png" group-title="Radio",BBC Essex
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_essex.m3u8
+#EXTINF:-1 tvg-chno="734-2" tvg-id="BBCRadioNorthampton.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnorthampton-epg.png" group-title="Radio",BBC Radio Northampton
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_northampton.m3u8
+#EXTINF:-1 tvg-chno="734-3" tvg-id="BBCRadioSheffield.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcsheff-epg.png" group-title="Radio",BBC Radio Sheffield
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_sheffield.m3u8
+#EXTINF:-1 tvg-chno="740" tvg-id="BBCRadioOrkney.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/BBC_Radio_Orkney.png" group-title="Radio",BBC Radio Orkney
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_orkney.m3u8
+#EXTINF:-1 tvg-chno="741" tvg-id="BBCRadioShetland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/BBC_Radio_Shetland.png" group-title="Radio",BBC Radio Shetland
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_shetland.m3u8
+#EXTINF:-1 tvg-chno="742" tvg-id="BBCRadio1D.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1d-epg.png" group-title="Radio",BBC Radio 1 Dance
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one_dance.m3u8
+#EXTINF:-1 tvg-chno="743" tvg-id="BBCRadio1R.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1r-epg.png" group-title="Radio",BBC Radio 1 Relax
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one_relax.m3u8
+#EXTINF:-1 tvg-chno="744" tvg-id="CBeebiesRadio.uk" tvg-logo="" group-title="Radio",CBeebies Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/cbeebies_radio.m3u8
+
+#EXTINF:-1 tvg-chno="716" tvg-id="GreatestHitsSouthWest.uk" status="timeout", Greatest Hits Radio (Bath and South West)
+https://stream-mz.planetradio.co.uk/net2bath.aac
+#EXTINF:-1 tvg-chno="718" tvg-id="SmoothRadio.uk" tvg-logo="https://www.smoothradio.com/assets_v4r/dist/combined/img/smooth-logo_desktop.png" group-title="Radio",Smooth Radio
+http://media-ice.musicradio.com/SmoothUKMP3
+#EXTINF:-1 tvg-chno="724" tvg-id="CapitalFM.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/1024px-Capital_2022.svg.png" group-title="Radio",Capital
+http://media-ice.musicradio.com/CapitalUKMP3
+#EXTINF:-1 tvg-chno="728" tvg-id="HeartRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1024px-The_Heart_Network_logo.svg.png" group-title="Radio",Heart Radio
+http://media-ice.musicradio.com/HeartUKMP3
+#EXTINF:-1 tvg-chno="731" tvg-id="ClassicFM.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/1024px-Classic_FM_logo.svg.png" group-title="Radio",Classic FM
+http://media-ice.musicradio.com/ClassicFMMP3
+#EXTINF:-1 tvg-chno="732" tvg-id="LBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/LBC_Radio.png" group-title="Radio",LBC
+http://media-ice.musicradio.com/LBCUKMP3
+#EXTINF:-1 tvg-chno="732" tvg-id="TransWorldRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Trans_World_Radio_logo.png" group-title="Radio",Trans World Radio
+https://direct.sharp-stream.com/twruk.mp3
+
+#EXTINF:-1 tvg-chno="800" tvg-id="France24English.fr" status="timeout",France 24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1 tvg-chno="801" tvg-id="4Music.uk" status="timeout",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:-1 tvg-chno="802" tvg-id="EuronewsEnglish.fr" status="timeout",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-id="NHKWorldJapan.jp" status="timeout",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-chno="805" tvg-id="Now80s.uk" group-title="Music",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="806" tvg-id="KissTVUK.uk" group-title="Music",Kiss TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
+#EXTINF:-1 tvg-chno="807" tvg-rec="28" tvg-id="RTUK.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/rt-epg.png" group-title="News",RT UK
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-chno="808" tvg-id="BloombergTVEurope.uk" status="timeout",Bloomberg 
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="809" tvg-id="Kerrang.uk" group-title="Music",Kerrang! TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-chno="803" tvg-id="TheBoxUK.uk" group-title="Music",The Box
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
+#EXTINF:-1 tvg-chno="810" tvg-id="Magic.uk" group-title="Music",Magic TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878
+
+#EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/s4c-epg.png" status="blocked",S4C (Welsh)
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="STV.uk" status="timeout" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/stv-epg.png",STV
+https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv1-west&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2F
+#EXTINF:-1 tvg-chno="35" tvg-id="STVPlus1.uk" status="timeout",STV+1
+https://csm-e-ces1aeuw1live102-0ad3dd531b3c30bf5.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv-plus-1&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2Fstv-plus-1&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
+#EXTINF:-1 tvg-chno="912" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" status="blocked",BBC Alba (Gaelic)
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcscot-epg.png" status="blocked",BBC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="950" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Yorks
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="951" tvg-id="BBCOneWestMidlands.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One W Mid
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="952" tvg-id="BBCOneWales.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One Wales
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-chno="850" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream)
+https://list.iptvcat.com/my_list/s/c9cd3ea95f88f6aeb6b638859f252194.m3u8
+#EXTINF:-1 tvg-chno="850-1" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" status="blocked",Channel 4 (alternative stream 2)
+https://list.iptvcat.com/my_list/s/4cf4c3eeb31f346ed4924fe2a4eda095.m3u8
+#EXTINF:-1 tvg-chno="851" tvg-id="Dave.uk" status="blocked",Dave (alternative stream)
+https://list.iptvcat.com/my_list/s/1b6dded3944ab5f4fa11e1401fe6b9be.m3u8
+#EXTINF:-1 tvg-chno="852" tvg-id="Film4.uk" status="blocked",Film4 (alternative stream)
+https://list.iptvcat.com/my_list/s/6df24f2b583b70501d240dc153c3c01e.m3u8
+#EXTINF:-1 tvg-chno="853" tvg-id="GBNews.uk" status="blocked",GBNews (alternative stream)
+https://list.iptvcat.com/my_list/s/f4111eb523f441da59566bd3a5592750.m3u8
+#EXTINF:-1 tvg-chno="854" tvg-id="BBCNews.uk" tvg-url="https://i.imgur.com/GjICLWN.png" group-title="News" status="online",BBC News (alternative stream)
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
