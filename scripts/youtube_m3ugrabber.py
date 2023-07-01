@@ -60,8 +60,12 @@ with open('../youtube_channel_info.txt', errors="ignore") as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
             is_online = False
         else:
-            is_online = True
-            grab(line)
+            response = requests.get(line, timeout=15)
+            if response.status_code == 200:
+                is_online = True
+                grab(line)
+            else:
+                is_online = False
         
         if not is_online:
             continue
