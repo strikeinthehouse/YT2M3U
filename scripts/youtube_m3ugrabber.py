@@ -62,6 +62,9 @@ with open('../youtube_channel_info.txt', errors="ignore") as f:
         else:
             is_online = True
             grab(line)
+        
+        if not is_online:
+            continue
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
