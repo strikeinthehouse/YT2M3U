@@ -45,9 +45,9 @@ def grab(url):
             tuner += 5
     return link[start : end]
 
-output_file = 'output.m3u'  # Nome do arquivo de saída
+output_file = 'youtube.m3u'  # Nome do arquivo de saída
 
-with open('../youtube_channel_info.txt', errors="ignore") as f:
+with open('youtube_channel_info.txt', errors="ignore") as f:
     with open(output_file, 'w') as output:
         output.write('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"\n')
         output.write(banner)
@@ -67,8 +67,10 @@ with open('../youtube_channel_info.txt', errors="ignore") as f:
                     output.write(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}\n')
                     output.write(grab(channel_url) + '\n')
             else:
-                output.write(grab(line) + '\n')
+                channel_url = line.strip()
+                if is_channel_live(channel_url):
+                    output.write(grab(channel_url) + '\n')
 
 if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+    os.remove('temp.txt')
+    os.remove('watch*')
