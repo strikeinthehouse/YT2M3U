@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
 banner = r'''
 #########################################################################
@@ -19,6 +19,10 @@ import sys
 windows = False
 if 'win' in sys.platform:
     windows = True
+
+def is_channel_live(url):
+    response = requests.get(url, timeout=15)
+    return response.status_code == 200
 
 def grab(url):
     response = requests.get(url, timeout=15).text
@@ -59,10 +63,12 @@ with open('../youtube_channel_info.txt', errors="ignore") as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+            channel_url = line[4].strip()  # Assuming the channel URL is in the 5th position in the line
+            if is_channel_live(channel_url):
+                print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
-            
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
