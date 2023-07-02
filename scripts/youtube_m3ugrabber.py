@@ -47,6 +47,7 @@ print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/late
 print(banner)
 
 with open('../youtube_channel_info.txt', errors="ignore") as f:
+    is_online = False
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -57,19 +58,23 @@ with open('../youtube_channel_info.txt', errors="ignore") as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
             is_online = False
         else:
             response = requests.get(line, timeout=15)
             if response.status_code == 200:
                 is_online = True
+                if not line.startswith('https://'):
+                    line = 'https://' + line
                 grab(line)
             else:
                 is_online = False
         
         if not is_online:
             continue
-            
+
+        if is_online:
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
