@@ -305,7 +305,7 @@ https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.
 https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
 
 #EXTINF:-1 group-title="Latino" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="", teleSUR English
-https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732095336/ei/CFk9Z_GaH8vfybgPm_WvMA/ip/172.183.130.196/id/r3_vDY2OSQE.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAazgoBHHRJ3LMmac62ZgJmNpwpy8TCKr6pyRRrKCCfDgUY0UuEYxhNcLz4o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51335593/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbYkfrcQFWHR12knJpJYVa8zJir3_v8D3yPSMXw7GEbwCIQCXLv1jn0Wv6Sl_I5cHWNt8QQos7xCJ8m-zX_NOf7rLqw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="ESPANHA" tvg-logo="https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj" tvg-id="https://www.youtube.com/c/rtvenoticias/live", RTVE
 https://archive.org/download/blink182documentary2004/blink182lostdocumentary.ia.mp4
